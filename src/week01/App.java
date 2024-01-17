@@ -10,5 +10,7 @@ public class App {
 
         myCircle.calculateArea();
         MyRectangle.calculateArea();
+
+        //Erik ist scheiße
     }
 }
